@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "name": "Delaware_Schools",
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+        },
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1, 
+            "NAME": "BRANDYWINE SCHOOL DISTRICT", 
+            "DIST_ID": 31, 
+            "SQMILES": 32.68409844, 
+            "SHORTNAME": "BRANDYWINE", 
+            "ADDRESS": "1000 Pennsylvania Avenue Claymont, DE 19703", 
+            "ADMIN": "Mark Holodick", 
+            "TITLE": "Superintendent", 
+            "ENROLL": 10217, 
+            "OFFICECODE": 102, 
+            "WEB_URL": "http://profiles.doe.k12.de.us/District.htm?DistrictCode=31&checkSchool=0", 
+            "DIST_URL": "http://www.brandywineschools.org/bsd/site/", 
+            "UNIFIED": "01240", 
+            "Shape__Area": 142646601.37402201, 
+            "Shape__Length": 64547.584184535801
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [ -75.565987164112059, 39.839463577484587 ]
+            }
+        }]}
