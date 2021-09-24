@@ -80,7 +80,7 @@ export default function App() {
   return (
     <div style={{ width: "100vw", height: "100vh" }}>
       <MapWrapped
-        googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyBR8i5O14bsiaxsnx0PXPpw7_zNalRYpU8` //Remove curly braces and $
+        googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=` //Remove curly braces and $
           // process.env.REACT_APP_GOOGLE_KEY
 }
         loadingElement={<div style={{ height: `100%` }} />}
